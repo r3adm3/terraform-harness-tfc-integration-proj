@@ -1,4 +1,4 @@
 variable "proj-api-key" {
-  type = string
+  type    = string
   default = ""
 }

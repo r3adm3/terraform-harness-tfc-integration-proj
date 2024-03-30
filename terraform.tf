@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-   organization = "techfrontier"
+    organization = "techfrontier"
 
-   workspaces {
-     name = "terraform-harness-tfc-integration-proj"
-   }
+    workspaces {
+      name = "terraform-harness-tfc-integration-proj"
+    }
   }
 }
