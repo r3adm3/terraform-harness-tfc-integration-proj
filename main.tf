@@ -1,5 +1,5 @@
-resource "harness_platform_project" "test_proj_tfc" {
-  identifier   = "test_proj_tfc"
+resource "harness_platform_project" "test_proj2" {
+  identifier   = "test_proj2"
   name         = "another test project doodad (tfc)"
   org_id       = "default"
   color        = "#0063F7"
